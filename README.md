@@ -10,9 +10,36 @@ systems and blood bank databases is crucial for seamless workflow.  Don't forget
 
 3)Despite efforts to promote donation, some apps may struggle with low user engagement, resulting in a limited pool of available donors.
 
+Female donors health get affected due to their menstrual cycle.
+
+
 Solution:
 Introducing "QuickPlasma" – the revolutionary instant blood delivery app! In moments of urgency, QuickPlasma connects hospitals, blood banks, and donors seamlessly, ensuring life-saving blood reaches patients swiftly. With user-friendly interfaces and real-time tracking, QuickPlasma ensures timely and efficient blood delivery, saving lives when every second counts. Say goodbye to long waits and hello to rapid responses with QuickPlasma.
 
-1)User friendly and easy seamless experience  Develop an app where people can easily login and app will support many languages and  details form-fillup should be done. To bring more awareness ,the app will include a period tracking system for women.
+1)User friendly and easy seamless experience to develop an app where people can easily login and app will support many languages and  details form-fillup should be done. To bring more awareness ,the app will include a period tracking system for women.
+2)Donation scheduling:
+Allows donors to schedule appointments for blood donation at convenient times.
+Send reminders to donors about their scheduled donation appointments a day or two in advance via E-mail notifications, pop-up SMS alerts and In-app notifications
+Allows donors to sync their donation appointments with Google calendar, Outlook or Apple Calendar.
+Using a GPS system to track and match donors and recipients who are geographically close to each other.
+Calculates the overall compatibility score between potential donors and recipients based on specified criteria.
+
+3)Attractive Features:
+To get maximum customers, the app will host a reward-based system and create a  leaderboard. 
+Integrating  a chatbot,Blood-buddy if users have any queries or any educational queries.
+For updates about blood-journey, we will include a journey system so that the receiver or donor can see their whereabouts.
+
+4)Privacy,control, management & scalability:
+To provide more security for the users, we will include a cloud-based system where multifactor authentication (MFA), Single sign-on etc will be incorporated.
+For seamless control, the admin will manage backend systems and inventory management.
+ Integrate through hospitals which have no blood banks and different non-profit organisations.
+Build a scalable infrastructure to handle varying levels of user traffic and future growth
+
+Tech Stacks Used:
+Frontend: HTML, CSS, Bootstrap
+Backend: PHP
+Database: MySQL
+
+
 
 
