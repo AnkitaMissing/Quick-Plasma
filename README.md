@@ -46,9 +46,13 @@ we are first trying to build frontend using html and css.
 
 From this, user or new people can come to our website and register and login. We provide about us page and article about how giving blood saves so many lives.
 
+For Women, We included period tracker so that women can stay aware during blood donation time.
+
 We will then show the blood stocks.
 
 Then we will create a Chatbot(blood-buddy) to help donor/receiver who has some queries.
+
+We will use GPS tracking system for blood delivery.
 
 then we will build MySQL database to store registered information and updates them one after other.
 
