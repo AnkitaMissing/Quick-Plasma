@@ -37,8 +37,20 @@ Build a scalable infrastructure to handle varying levels of user traffic and fut
 
 Tech Stacks Used:
 Frontend: HTML, CSS, Bootstrap
-Backend: PHP
+
+Backend: PHP,GCP,mySQL,botpress
 Database: MySQL
+Workflow:
+we are first trying to build frontend using html and css. 
+From this, user or new people can come to our website and register and login. We provide about us page and article about how giving blood saves so many lives.
+We will then show the blood stocks
+Then we will create a Chatbot(blood-buddy) to help donor/receiver who has some queries.
+then we will build MySQL database to store registered information and updates them one after other.
+We are trying to create the frontend code which will be connected with php files in near future.
+
+
+
+
 
 
 
