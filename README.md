@@ -58,6 +58,8 @@ then we will build MySQL database to store registered information and updates th
 
 We are trying to create the frontend code which will be connected with php files in near future.
 
+we have tried to implement reward-based leaderboard system to attractive more donors.
+
 
 
 
