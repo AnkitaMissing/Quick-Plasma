@@ -13,6 +13,8 @@ include("bb_auth_session.php");
     <div class="form">
         <p>Hey, <?php echo $_SESSION['bbemail']; ?>!</p>
         <p>Blood Bank Logged in successfully !!!</p>
+        <p><a href="index.html">Go to home page</a></p>
+
         <p><a href="bb_logout.php">Logout</a></p>
     </div>
 </body>

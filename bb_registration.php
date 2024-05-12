@@ -36,7 +36,7 @@
         //$create_datetime = date("Y-m-d H:i:s");
 
         $query    = "INSERT into `blood_bank` (Blood_Bank_id,Name,Email,Address,Contact_No,SMCOM_Approved,Vehicle_Available,password)
-                     VALUES ('$id','$name', '$email','$address','$mob','$approved','$vehicle','" . md5($password) . "')";
+                     VALUES ('$id','$name', '$email','$address','$mob','$approved','$vehicle','$password')";
         $result   = mysqli_query($con, $query);
         if ($result) {
             echo "<div class='form'>

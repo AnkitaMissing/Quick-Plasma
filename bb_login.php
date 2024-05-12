@@ -43,6 +43,7 @@
         &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
         &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
         &nbsp &nbsp &nbsp &nbsp &nbsp 
+        
         <a href="bb_registration.php">New Registration</a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
         <a href="index.html">Back to home</a>
   </form>
